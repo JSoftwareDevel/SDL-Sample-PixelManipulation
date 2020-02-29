@@ -140,11 +140,3 @@ void DegradadoColores(void)
         MostrarPantalla();
     }
 }
-
-
-
-
-
-
-
-
