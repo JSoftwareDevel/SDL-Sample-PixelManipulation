@@ -1,4 +1,4 @@
-# Testing
+# SDL Sample: Direct Pixel Access 
 
 Prueba 1
 
