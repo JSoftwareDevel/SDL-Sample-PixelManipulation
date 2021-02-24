@@ -62,7 +62,7 @@ void SetPixel(int x, int y, Uint8 r, Uint8 g, Uint8 b)
 	*pixel32 = color;
 }
 
-void Event_Step()
+void EventStep()
 {
 	SDL_Event event;
 	if (SDL_PollEvent(&event)) {
@@ -88,7 +88,7 @@ void ShowScreen()
 	SDL_BlitSurface(screen, NULL, surface_window, NULL);
 	SDL_UpdateWindowSurface(win);
 
-	Event_Step();
+	EventStep();
 }
 
 
@@ -109,8 +109,6 @@ void Sample1()
 int main(int argc, char* args[])
 {
 	InitSDL();
-
 	Sample1();
-
 	return 0;
 }
