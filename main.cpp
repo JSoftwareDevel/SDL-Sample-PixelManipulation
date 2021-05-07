@@ -108,6 +108,7 @@ void Sample1()
 
 int main(int argc, char* args[])
 {
+	printf("Init SDL\n");
 	InitSDL();
 	Sample1();
 	return 0;
