@@ -91,7 +91,6 @@ void ShowScreen()
 	EventStep();
 }
 
-
 void Sample1()
 {
 	srand(1234);
