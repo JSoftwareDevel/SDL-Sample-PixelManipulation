@@ -109,7 +109,10 @@ int main(int argc, char* args[])
 {
 	printf("Init SDL\n");
 	InitSDL();
+	while (1==1){
 	Sample1();
+	}
+
 
 	return 0;
 }
