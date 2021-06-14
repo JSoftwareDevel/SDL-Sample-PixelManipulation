@@ -2,11 +2,11 @@
 
 Prueba 1
 
-![Image Noise](rudio.jpg)
+![Image Noise](readme/rudio.jpg)
 
 
 Prueba 2
 
-![Image Blabla](lineasH.jpg)
+![Image Blabla](readme/lineasH.jpg)
 
 bla bla bla
