@@ -2,4 +2,5 @@
 .git/
 Binary/*
 !/Binary/SDL2.dll
+vc140.pdb
 
